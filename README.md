@@ -7,7 +7,7 @@ Topic | Link
 Paper review youtube channel | [URL](https://www.youtube.com/c/MachineLearningDojowithTimScarfe/videos)
 Good ML/DL videos | [URL](https://www.youtube.com/channel/UChO9ZxMm1tCBqk8mrxPq-nA/playlists)
 Deep Learning Explainer | [URL](https://www.youtube.com/channel/UC9aifsrhLEt4cL4mbPiehMg/playlists)
-Deep Learning in Hindi (2nd url is for yolo) | [URL](https://www.youtube.com/c/DeepLearninginHindi/playlists) [URL] (https://www.youtube.com/watch?v=ORqmD1FbseM&list=PLxlkzujLkmQ8Ov11Xm-K913C7uNSfr5Rp&index=46)
+Deep Learning in Hindi (2nd url is for yolo) | [URL](https://www.youtube.com/c/DeepLearninginHindi/playlists) [URL](https://www.youtube.com/watch?v=ORqmD1FbseM&list=PLxlkzujLkmQ8Ov11Xm-K913C7uNSfr5Rp&index=46)
 Cogneethi | [URL](https://www.youtube.com/c/Cogneethi/playlists)
 ML, DL, DS, Python | [URL](https://www.youtube.com/c/BhaveshBhatt8791/playlists)
 AI research, Deep Learning paper summary | [URL](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/playlists)
